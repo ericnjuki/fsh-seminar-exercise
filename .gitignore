@@ -5,3 +5,9 @@ Thumbs.db
 /output
 /temp
 /template
+# IG publisher caches/output inside docs/
+/docs/**/input-cache
+/docs/**/temp
+/docs/**/template
+/docs/**/output
+/docs/**/fsh-generated
